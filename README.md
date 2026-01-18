@@ -12,6 +12,7 @@ If you don't know how to send in a pr, just ask return or any of the other autis
     - [ ] Client Issues (Roblox)
     - [ ] Fishstrap Issues
 - [ ] Manual
+    - [ ] Introduction to Fishstrap
     - [ ] Modding
     - [ ] FastFlags (Studio)
     - [ ] FastFlags (Client)
