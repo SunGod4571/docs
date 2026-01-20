@@ -59,7 +59,8 @@ export default defineConfig({
                 {
 					label: 'For Developers',
                     items: [
-                        { label: 'Downloading and Building from source', slug: 'developers/downloading-and-building'},
+                        { label: 'Contributor Guidelines', slug: 'developers/contributor-guidelines' },
+                        { label: 'Downloading and Building from source', slug: 'developers/downloading-and-building' },   
 					],
 				},
 			],

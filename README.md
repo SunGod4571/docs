@@ -20,9 +20,9 @@ If you don't know how to send in a pr, just ask return or any of the other autis
     - [ ] Integrations
     - [ ] Bootstrapper Options
     - [ ] Joingame stuff (lol)
-- [ ] For Developers (@GoingCrazyDude)
-    - [ ] Downloading from source and building
-    - [ ] Whether we accept AI code or not (We wont)
+- [X] For Developers (@GoingCrazyDude)
+    - [X] Downloading from source and building
+    - [X] Whether we accept AI code or not (We wont)
 - [X] License page (@GoingCrazyDude)
 - [ ] Contributors Page (@GoingCrazyDude)
 
